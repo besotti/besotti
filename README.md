@@ -27,7 +27,6 @@ Currently working at **smartclip Europe GmbH**, but always curious about new cha
 |--------------------------------|-------------------------------------------------|----------------------------------|-------------------------------|
 | React, TypeScript, Styled Components, Vue.js, Next.js | Node.js, Express, REST APIs, Prisma, PostgreSQL | ESLint, Prettier, GitHub Actions, GitLab CI/CD, Feature Flags | Agile, Clean Code, Code Reviews, A/B Testing, User Tracking |
 
----
 
 ## 📦 Projects worth checking out
 
@@ -39,7 +38,6 @@ Currently working at **smartclip Europe GmbH**, but always curious about new cha
 
 > _Most of my actual work lives behind corporate firewalls, so I build things in public when I can._
 
----
 
 ## 🔍 Looking for...
 
