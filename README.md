@@ -36,6 +36,9 @@ Currently working at **smartclip Europe GmbH**, but always curious about new cha
 - [`typesafe-deep-paths`](https://github.com/besotti/typesafe-deep-paths)  
   Type-safe utility for accessing deeply nested object paths in TypeScript.
 
+- [`retryable-promise-ts`](https://github.com/besotti/retryable-promise-ts)  
+  Retry async functions in TypeScript with delay control, abort support, and optional jitter and timeouts
+
 > _Most of my actual work lives behind corporate firewalls, so I build things in public when I can._
 
 
